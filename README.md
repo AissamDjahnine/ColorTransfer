@@ -26,6 +26,8 @@ Color Transfer between Images in a correlated color space ( RGB )
 
 - Result Image
 
+**Test folders :**
+
 * Uses some examples files in Example folders : 
 
            Im_target = imread('Example1/target.jpg');
