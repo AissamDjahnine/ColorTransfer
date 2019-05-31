@@ -12,7 +12,7 @@ Im_trg_d=  im2double(Im_target);
 Im_src_d = im2double(Im_source );
 %% Correlated Color Space : RGB 
 tic,
-IR1= Color_Transfer_CCS(Im_src_d,Im_trg_d);  %Call the C-Color Transfer function ( source,target )
+IR1= Color_Transfer_CCS(Im_trg_d,Im_src_d);  %Call the C-Color Transfer function ( source,target )
 time=toc;
 %% Results : 
 figure; 
