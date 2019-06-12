@@ -39,13 +39,13 @@ Color Transfer between Images in a correlated color space ( RGB )
 
 Target         |  Source          |      Result        
 :-------------:|:----------------:|:-------------------:
-<img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/target.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/source.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/result.jpg" width="250">
+<img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./target.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./source.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./result.jpg" width="250">
 
 **Autumn House color Transfer :**
 
 Target         |  Source          |      Result        
 :-------------:|:----------------:|:-------------------:
-<img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/target_1.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/source_1.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/result_1.jpg" width="250">
+<img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./target_1.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./source_1.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./result_1.jpg" width="250">
 
 ## Documentation & ressources : 
 
