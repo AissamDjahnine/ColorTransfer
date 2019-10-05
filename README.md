@@ -1,4 +1,4 @@
-# ColourTransfer <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Matlab_Logo.png" width="25">
+# Color Transfer <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Matlab_Logo.png" width="25">
 
 Colour Transfer between Images in a correlated colour space ( RGB )
 
