@@ -49,7 +49,7 @@ Target         |  Source          |      Result
 
 ## Documentation & ressources : 
 
-- You can find the article supporting this work in files : [Colour Transfer By Aissam Djahnine](https://github.com/AissamDjahnine/ColorTransfer/blob/master/Djahnine_Aissam_Color_Transfer_in_Correlated_color_space.pdf) explaining the color transfer algorithm. The use of the article needs an approval.
+- You can find the article supporting this work in files : [Colour Transfer By Aissam Djahnine](https://github.com/AissamDjahnine/ColorTransfer/blob/master/Djahnine_Aissam_Color_Transfer_in_Correlated_color_space.pdf) explaining the color transfer algorithm.
 
 ## Authors
 
