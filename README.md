@@ -1,6 +1,6 @@
 # Color Transfer <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Matlab_Logo.png" width="25">
 
-Colour Transfer between Images in a correlated colour space ( RGB )
+Color Transfer between Images in a correlated colour space ( RGB )
 
 ## Getting Started & Prerequisites :
 
@@ -35,13 +35,13 @@ Colour Transfer between Images in a correlated colour space ( RGB )
                       
 ## Test & Results :
 
-**FLower colour Transfer :**
+**FLower color Transfer :**
 
 Target         |  Source          |      Result        
 :-------------:|:----------------:|:-------------------:
 <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./target.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./source.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./result.jpg" width="250">
 
-**Autumn House colour Transfer :**
+**Autumn House color Transfer :**
 
 Target         |  Source          |      Result        
 :-------------:|:----------------:|:-------------------:
