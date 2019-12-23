@@ -12,7 +12,7 @@ Color Transfer between Images in a correlated colour space ( RGB )
            
 ## Execution & tests
 
-* The main programm **ColorTransferDemo** uses :
+* The main program **ColorTransferDemo** uses :
 
            function est_im = Color_Transfer_CCS(source,target)
 
@@ -47,20 +47,13 @@ Target         |  Source          |      Result
 :-------------:|:----------------:|:-------------------:
 <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./target_1.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./source_1.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./result_1.jpg" width="250">
 
+**Autumn-spring color Transfer :**
+
+Target         |  Source          |      Result        
+:-------------:|:----------------:|:-------------------:
+<img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./target_2.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./source_2.jpg" width="250" height="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./result_2.jpg" width="250">
+
+
 ## Documentation & ressources : 
 
 - You can find the article supporting this work in files : [Colour Transfer By Aissam Djahnine](https://github.com/AissamDjahnine/ColorTransfer/blob/master/Djahnine_Aissam_Color_Transfer_in_Correlated_color_space.pdf) explaining the color transfer algorithm.
-
-## Authors
-
-**Djahnine Aissam**  
-- [Github Profile](https://github.com/AissamDjahnine)
-- [Linkedin Profile](https://www.linkedin.com/in/aissamdjahnine/)
-
-
-## Acknowledgments
-
-* Part of this job was supported by : Valentin Marcel  :thumbsup:
-
-
-
