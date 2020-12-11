@@ -60,4 +60,4 @@ Target         |  Source          |      Result
 <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./target_3.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./source_3.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/files./result_3.jpg" width="250">
 ## Documentation & ressources : 
 
-- You can find the article supporting this work in files : [Colour Transfer By Aissam Djahnine](https://github.com/AissamDjahnine/ColorTransfer/blob/master/Djahnine_Aissam_Color_Transfer_in_Correlated_color_space.pdf) explaining the color transfer algorithm.
+- You can find the article supporting this work in files : [Color Transfer By Aissam Djahnine](https://github.com/AissamDjahnine/ColorTransfer/blob/master/Djahnine_Aissam_Color_Transfer_in_Correlated_color_space.pdf) explaining the color transfer algorithm.
