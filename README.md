@@ -6,9 +6,7 @@ Color Transfer between Images in a correlated colour space ( RGB )
 
 **Matlab Versions and Libraries :** 
 
-* You need a MATLAB license and an install of MATLAB. .
-
-* No Matlab toolboxes should be required for this program. 
+* You need a MATLAB license and an install of MATLAB (No Matlab toolboxes should be required for this program). 
            
 ## Execution & tests
 
