@@ -1,6 +1,5 @@
 # Color Transfer <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Matlab_Logo.png" width="25">
-
-Color Transfer between Images in a correlated colour space ( RGB )
+Color Transfer between Images in a correlated colour space ( RGB ) in Matlab (python code is available)
 
 ## Getting Started & Prerequisites :
 
